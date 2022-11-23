@@ -1,0 +1,6 @@
+Select CrimeCofficient from fetcher where Name = " ";
+
+regex in python to select a particular feild in csv
+
+
+https://stackoverflow.com/questions/35950061/how-can-i-query-a-specific-column-of-a-csv-file-that-i-have-input-and-print-all
